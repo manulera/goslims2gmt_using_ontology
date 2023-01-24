@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "question-helpdesk-gmt-files"
+version = "0.1.0"
+description = "A script to convert PomBase annotations from gaf to GMT with the go slims"
+authors = ["Manuel Lera Ramirez <manulera14@gmail.com>"]
+readme = "README.md"
+packages = [{include = "question_helpdesk_gmt_files"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0.0"
+pandas = "^1.5.3"
+pronto = "^2.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,23 @@
+go_slim_term	go_slim_description	count	associated_genes	in_api
+GO:0030234	enzyme regulator activity	219	SPBC2G2.09c	
+GO:0030234	enzyme regulator activity	219	SPAC1296.05c	
+GO:0030234	enzyme regulator activity	219	SPBC32F12.09	
+GO:0030234	enzyme regulator activity	219	SPBC19F5.01c	
+GO:0030234	enzyme regulator activity	219	SPAC8C9.03	
+GO:0030234	enzyme regulator activity	219	SPAC19E9.03	
+GO:0030234	enzyme regulator activity	219	SPBC119.04	
+GO:0030234	enzyme regulator activity	219	SPBC16E9.17c	
+GO:0030234	enzyme regulator activity	219	SPBC12D12.06	
+GO:0030234	enzyme regulator activity	219	SPBC20F10.10	
+GO:0030234	enzyme regulator activity	219	SPBC1D7.03	
+GO:0098772	molecular function regulator	246	SPBC2G2.09c	
+GO:0098772	molecular function regulator	246	SPAC1296.05c	
+GO:0098772	molecular function regulator	246	SPBC32F12.09	
+GO:0098772	molecular function regulator	246	SPBC19F5.01c	
+GO:0098772	molecular function regulator	246	SPAC8C9.03	
+GO:0098772	molecular function regulator	246	SPAC19E9.03	
+GO:0098772	molecular function regulator	246	SPBC119.04	
+GO:0098772	molecular function regulator	246	SPBC16E9.17c	
+GO:0098772	molecular function regulator	246	SPBC12D12.06	
+GO:0098772	molecular function regulator	246	SPBC20F10.10	
+GO:0098772	molecular function regulator	246	SPBC1D7.03	
